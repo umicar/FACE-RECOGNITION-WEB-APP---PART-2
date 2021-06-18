@@ -1,0 +1,19 @@
+body{
+    background-color: lightpink;
+}
+.heading{
+width: 80%;
+font-size: 25px;
+}
+.objects,#result_accuracy,#result_object{
+    color: red;
+    font-size: 20px;
+}
+#camera{
+width: 350px;
+height: 300px;
+border: 2px solid black;
+}
+
+
+
